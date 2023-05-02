@@ -1,6 +1,6 @@
 # sqlalchemy-challenge
 DataViz SQLAlchemy Challenge
 
-Part 1 Jupiter Notebook and analysis accessible through SurfsUp > Climate Notebook
+Part 1 Jupiter Notebook and analysis accessible through SurfsUp > Climate Notebook.
 
-Part 2 API app accessible through SurfsUp > app.py, code also listed below
+Part 2 API app accessible through SurfsUp > app.py, code also listed below.
